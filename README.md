@@ -1,2 +1,11 @@
-# Expense_tracking
-Developed expense tracking  UI using streamlit and FastAPI.  It add , show and calculate  monthly expenses.
+# Expense Mangement System
+
+
+This project is an expense management system that consist of a 
+
+
+## Project Structure
+
+
+## SetUp Instructions
+
