@@ -29,8 +29,8 @@ A lightweight and modular **Expense Tracking System** built with **FastAPI**, **
 |--------------|----------------|
 | Backend      | FastAPI        |
 | Frontend     | Streamlit      |
-| Database     | SQLite / SQLAlchemy |
-| Language     | Python 3.x     |
+| Database     | mySQL |
+| Language     | Python 3.13     |
 
 ---
 
